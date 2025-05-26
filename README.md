@@ -9,6 +9,7 @@ Distribution of bathroom
 ![image](https://github.com/user-attachments/assets/2679f052-78d4-439b-b5f8-566c6a0605c8)
 
 Disctribution of Rent Price
+
 ![image](https://github.com/user-attachments/assets/f92c5e93-86ab-4356-b000-d573afaeb236)
 
 Distribution for Property Type
